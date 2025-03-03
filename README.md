@@ -14,12 +14,8 @@ O projeto consiste em um componente principal de quiz (`QuizzComponent`) que car
 - `src/app/components/quizz/quizz.component.css`: Estilos CSS do componente de quiz.
 
 ### Comandos para Iniciar o Projeto
-2.	cd marvel-quiz
-3.	
-4.	Instale as dependências:
-5.	npm install
-6.	Inicie o servidor de desenvolvimento:
-7.	ng serve
-8.	Abra o navegador e acesse:
-http://localhost:4200
+1.	cd marvel-quiz	
+2.	npm install
+3.	ng serve
+Abra o navegador e acesse:http://localhost:4200
 
