@@ -1,0 +1,29 @@
+{
+  "title": "Qual herói da Marvel você seria?",
+  "questions": [
+    {
+      "question": "Qual é a sua maior qualidade?",
+      "options": [
+        { "alias": "a", "name": "Coragem" },
+        { "alias": "b", "name": "Inteligência" },
+        { "alias": "c", "name": "Força" },
+        { "alias": "d", "name": "Agilidade" }
+      ]
+    },
+    {
+      "question": "Qual é o seu maior medo?",
+      "options": [
+        { "alias": "a", "name": "Perder entes queridos" },
+        { "alias": "b", "name": "Falhar" },
+        { "alias": "c", "name": "Ser fraco" },
+        { "alias": "d", "name": "Ser lento" }
+      ]
+    }
+  ],
+  "results": {
+    "a": "Você é o Capitão América! Corajoso e sempre pronto para lutar pelo que é certo.",
+    "b": "Você é o Homem de Ferro! Inteligente e sempre um passo à frente com suas invenções.",
+    "c": "Você é o Hulk! Incrivelmente forte e imparável quando está com raiva.",
+    "d": "Você é o Homem-Aranha! Ágil e sempre pronto para ajudar os outros."
+  }
+}
